@@ -1,0 +1,14 @@
+/Users/direnctekin/Desktop/TestTask/syncfolder/bin/Debug/net7.0/syncfolder
+/Users/direnctekin/Desktop/TestTask/syncfolder/bin/Debug/net7.0/syncfolder.deps.json
+/Users/direnctekin/Desktop/TestTask/syncfolder/bin/Debug/net7.0/syncfolder.runtimeconfig.json
+/Users/direnctekin/Desktop/TestTask/syncfolder/bin/Debug/net7.0/syncfolder.dll
+/Users/direnctekin/Desktop/TestTask/syncfolder/bin/Debug/net7.0/syncfolder.pdb
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/syncfolder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/syncfolder.AssemblyInfoInputs.cache
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/syncfolder.AssemblyInfo.cs
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/syncfolder.csproj.CoreCompileInputs.cache
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/syncfolder.dll
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/refint/syncfolder.dll
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/syncfolder.pdb
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/syncfolder.genruntimeconfig.cache
+/Users/direnctekin/Desktop/TestTask/syncfolder/obj/Debug/net7.0/ref/syncfolder.dll
